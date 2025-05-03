@@ -1,0 +1,12 @@
+[
+    {
+        "sat_id": "SAT-001",
+        "user_id": "USER-001",
+        "beam_color": "red"
+    },
+    {
+        "sat_id": "SAT-002",
+        "user_id": "USER-002",
+        "beam_color": "red"
+    }
+]

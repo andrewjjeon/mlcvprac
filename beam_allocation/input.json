@@ -1,0 +1,12 @@
+{
+  "satellites": [
+    {"id": "SAT-001", "position": [0, 0, 1000], "max_beams": 2},
+    {"id": "SAT-002", "position": [1000, 1000, 1000], "max_beams": 2}
+  ],
+  "users": [
+    {"id": "USER-001", "position": [0, 0, 0]},
+    {"id": "USER-002", "position": [100, 0, 0]},
+    {"id": "USER-003", "position": [900, 900, 0]}
+  ],
+  "beam_colors": ["red", "blue"]
+}
