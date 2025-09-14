@@ -1,0 +1,13 @@
+262problems/20weeks = 13 problems/week
+
+1. Start with the basic patterns from the Grokking Coding Interview
+ 	https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
+2. Here is a curated Leetcode list for each pattern: (112 problems)
+ 	https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
+
+3. After completing the patterns, I recommend completing Neetcode 150, another curated list of Leetcode questions… (150 problems)
+ 	https://neetcode.io/practice
+
+4. I also strongly recommend doing mock interviews on https://www.pramp.com/
+I find it especially helpful to mock interview as the interviewer, as you get to learn what feelings will be triggered by your behavior as the interviewee, so you know what to do and not do. But, you still definitely want to get your reps in as the interviewee. I also became significantly less nervous during interviews after like 5 or 6 pramp sessions.

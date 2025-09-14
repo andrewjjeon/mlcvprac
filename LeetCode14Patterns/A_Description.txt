@@ -1,4 +1,0 @@
-LeetCode 14 Patterns close to Grokking the Coding Interview
-
-https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
